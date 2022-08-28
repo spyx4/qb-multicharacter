@@ -1,26 +1,9 @@
 # qb-multicharacter
-Multi Character Feature for QB-Core Framework :people_holding_hands:
-
-Added support for setting default number of characters per player per Rockstar license
-
-# License
 
     QBCore Framework
-    Copyright (C) 2021 Joshua Eger
+    Copyright (C) 2022 Spyx#4593
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>
-
+ 
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
@@ -30,8 +13,9 @@ Added support for setting default number of characters per player per Rockstar l
 - [qb-weathersync](https://github.com/qbcore-framework/qb-weathersync) - For adjusting the weather while player is creating a character.
 
 ## Screenshots
-![Character Selection](https://i.imgur.com/EUB5X6Y.png)
-![Character Registration](https://i.imgur.com/RKxiyed.png)
+![Character Selection](https://cdn.discordapp.com/attachments/905821571107659816/998995258513821786/unknown.png)
+![Character Registration](https://cdn.discordapp.com/attachments/905821571107659816/998994987880562709/unknown.png)
+![Character Registration](https://cdn.discordapp.com/attachments/905821571107659816/998993466216415262/unknown.png)
 
 ## Features
 - Ability to create up to 5 characters and delete any character.
