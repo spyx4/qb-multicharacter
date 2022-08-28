@@ -33,6 +33,13 @@ local function skyCam(bool)
         RenderScriptCams(false, false, 1, true, true)
         FreezeEntityPosition(PlayerPedId(), false)
     end
+	
+	    print("------------------------------------------------------------------------------------------------------------------------------")
+    print("^1")
+    print("^0")
+    print("       ^1Discord ^5 --> ^0https://discord.gg/CvysvCSHJ4         ",   "           ^1Author^5: ^Spyx#4593")
+    print("------------------------------------------------------------------------------------------------------------------------------")
+end)
 end
 
 local function openCharMenu(bool)
