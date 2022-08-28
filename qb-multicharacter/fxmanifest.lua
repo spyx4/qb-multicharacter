@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
-
-description 'QB-Multicharacter'
+author
+description 'QB-Multicharacter reworked by Spyx#4593 '
 version '1.0.0'
 
 shared_script 'config.lua'
